@@ -1,5 +1,8 @@
 <html>
-<h1> <center> Chengrui Fu </center>
+<h1> <center> Chengrui Fu
+<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+</center>
 </h1>
 <h2> <center> Computer Science and Mathematics </center>
 </h2>
@@ -8,6 +11,7 @@ This is a link to my RESUME.<br>
 This is a link to my Github.<br>
 This is a link to my LinkedIN.<br> </center>
 </body>
+
 
 
 
