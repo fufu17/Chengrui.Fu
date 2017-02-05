@@ -1,5 +1,5 @@
 <html>
-<h1> Chengrui Fu
+<h1> <center> Chengrui Fu </center>
 </h1>
 <h2> Computer Science and Mathematics
 </h2>
