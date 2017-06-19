@@ -1,5 +1,8 @@
 
 
 <center><h1>Chengrui Fu</h1></center>
-<right><h2>Adventurer : Creator : Coder</h2></right>
+<left><h2>Adventurer</h2></left>
+<center<h2>Creator</h2><center>
+<right><h2>Coder</h2><right>
+
 
