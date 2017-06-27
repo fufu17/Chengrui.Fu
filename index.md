@@ -102,7 +102,9 @@
         text-decoration:underline;
     }
 </style>
+<title>pokemon</title>
 
+<link rel="icon" href="https://preview.ibb.co/ihRQk5/19478229_1619874484703468_1960974236_n.jpg">
 <div id="content">
 <nav class="navbar fixed navbar-default" id="bar">
     <div class="container-fluid">
