@@ -134,12 +134,12 @@
     <h2 id="not_duke">Computer Science and Mathematics Major</h2>
     <h3>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! My name is Chengrui Fu(Rui) and I am currently a Vanderbilt student going to transfer to </h3><a id='highlight' href="https://www.duke.edu/"><h3 id="code-words"><b>Duke University</b></h3></a> <h3>
-         as a sophomore. My main interested primarily lie in creating web applications and front-end programming.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Vanderbilt,
+         as a sophomore. My main interests primarily lie in creating web applications and front-end programming.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Vanderbilt,
         I was on the board of the </h3> <a id='highlight' href="https://anchorlink.vanderbilt.edu/organization/CodeIgnite/about"><h3 id="code-words"><b>Code Ignite Team</b></h3></a><h3>, which strives to teach code to underprivileged middle school students. Furthermore,
-    I was also really involved in the programming board </h3><a id='highlight' href="http://vandyapps.club/"><h3 id="code-words"><b>VandyApps</b></h3></a> <h3>team as we make cool programs and help students understand what constitutes computer science.<br>
+    I was also really involved in the programming board of the </h3><a id='highlight' href="http://vandyapps.club/"><h3 id="code-words"><b>VandyApps</b></h3></a> <h3>team as we make cool programs and help students understand what constitutes computer science.<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outside of my major, I love playing tennis and badminton and am active in many cultural communities.
         <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am open to any internship opportunities dealing with software engineering or programming related roles.
-        Feel free to email or message me through my Linkedin, both in the top right.
+        Feel free to email me or message me through my Linkedin, both in the top right.
     </h3>
 </div>
 
