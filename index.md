@@ -67,7 +67,7 @@
         text-align:center;
     }
     #left_column{
-        width: 65%;
+        width: 70%;
         height: 100%;
         position: relative;
         float:left;
@@ -75,7 +75,7 @@
         padding-top:70px;
     }
     #right_column{
-        width: 35%;
+        width: 30%;
         height: 1000px;
         position: relative;
         padding-right: 50px;
