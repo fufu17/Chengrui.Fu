@@ -119,7 +119,7 @@
         <div class="collapse navbar-collapse" id="topNavBar">
             <ul class="nav navbar-nav navbar-right">
                 <li><a href='https://drive.google.com/file/d/0B9Y-it8f_LUOb3BHc1JSTkVxUU0/view?usp=sharing' id="glyphicon_word"><span id="glyphicon" class="glyphicon glyphicon-list-alt"></span> Resume</a></li>
-                <li><a href='mailto:chengrui.fu@duke.edu' id="glyphicon_word"><span class="glyphicon glyphicon-envelope"></span> Email</a></li>
+                <li><a href='mailto:chengrui.fu@duke.edu' id="glyphicon_word"><span class="glyphicon glyphicon-envelope"></span> chengrui.fu@duke.edu</a></li>
                 <li><a href="https://github.com/fufu17" id="glyphicon_word"><i id='fa-icon' class="fa fa-github" aria-hidden="true"></i> Github </a></li>
                 <li><a href='https://www.linkedin.com/in/fuchengrui/' id="glyphicon_word"><i id='fa-icon' class="fa fa-linkedin-square"></i> LinkedIn</a></li>
             </ul>
