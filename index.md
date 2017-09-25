@@ -11,7 +11,7 @@
         height: 100%;
         margin: 0;
         overflow:auto;
-        background-image: url("http://www.designzzz.com/wp-content/uploads/2012/12/3.jpg");
+        background-image: url("http://www.iconsdb.com/icons/preview/caribbean-blue/square-xxl.png");
     }
     #content {
         height: 100%;
@@ -102,7 +102,7 @@
 <title>Chengrui Fu</title>
 
 <link rel="icon" href="https://preview.ibb.co/ihRQk5/19478229_1619874484703468_1960974236_n.jpg">
-<div id="content">
+<!-- <div id="content">
 <nav class="navbar fixed navbar-default" id="bar">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -122,7 +122,7 @@
             </ul>
         </div>
     </div>
-</nav>
+</nav> -->
 
 <div id="left_column">
     <center><img src="https://preview.ibb.co/ihRQk5/19478229_1619874484703468_1960974236_n.jpg"></center>
