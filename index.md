@@ -11,13 +11,13 @@
         height: 100%;
         margin: 0;
         overflow:auto;
+        background-image: url("http://www.designzzz.com/wp-content/uploads/2012/12/3.jpg");
     }
     #content {
         height: 100%;
     }
     body{
         background-color: rgba(0, 0, 0, 0);
-
     }
     .navbar-default{
         border-radius: 0;
@@ -69,10 +69,7 @@
     #left_column{
         width: 70%;
         height: 100%;
-        position: relative;
-        float:left;
-        padding-left:25px;
-        padding-top:70px;
+        margin: 0 auto;
     }
     #right_column{
         width: 30%;
