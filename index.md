@@ -143,7 +143,7 @@
     </h3>
 </div>
 
-<div id="right_column">
+<!-- <div id="right_column">
     <h1>My Projects</h1>
     <h2><u>1. Team Formation Platform</u></h2>
     <h3>This summer(2017), I am working with the Sybbure Program at Vanderbilt on a startup to create a web application for building team platforms.
@@ -155,7 +155,7 @@
     <h2><u>3. Emailer Tool</u></h2>
     <h3>While working with Make Me Modern, I was able to use Python and Django in order to create a web application emailer tool for their website. This emailer tool is used to send out mass emails with specific information unique to each email</h3>
 </div>
-
+ -->
 </div>
 <script>
 $(document).ready(function() {
