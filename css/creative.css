@@ -142,13 +142,26 @@ body {
             color: #F05F40; } }
 
 
+header.page-bg{
+    background-image: url(../img/header.jpg);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
 header.masthead {
     position: relative;
   width: 100%;
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("http://cuteimages.net/data/2015/6/a-corgi-wearing-google-glass-dogs-cuteimages.net.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
