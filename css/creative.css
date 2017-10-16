@@ -141,18 +141,34 @@ body {
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
             color: #F05F40; } }
 
-header.masthead {
-  position: relative;
-  width: 100%;
-  min-height: auto;
-  text-align: center;
-  color: white;
+
+header.masthead.before{
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: -1;
   background-image: url("../img/header.jpg");
-    -webkit-filter: blur(5px);
+  width: 1200px;
+  height: 800px;
+  
+  -webkit-filter: blur(5px);
   -moz-filter: blur(5px);
   -o-filter: blur(5px);
   -ms-filter: blur(5px);
   filter: blur(5px);
+}
+header.masthead {
+    position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: white;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
