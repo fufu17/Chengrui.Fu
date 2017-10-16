@@ -142,18 +142,7 @@ body {
             color: #F05F40; } }
 
 
-header.masthead {
-    position: relative;
-  width: 100%;
-  min-height: auto;
-  text-align: center;
-  color: white;
-  background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
-  header.masthead .pages-bg{
+.pages-bg{
      background-image: url(../img/header.jpg);
     -webkit-filter: blur(5px);
     -moz-filter: blur(5px);
@@ -167,6 +156,18 @@ header.masthead {
     left: 0;
     z-index: -1;
     }
+
+header.masthead {
+    position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: white;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
     header.masthead .header-content {
       position: relative;
       width: 100%;
