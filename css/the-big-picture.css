@@ -16,7 +16,8 @@ body {
 	margin-left:20px;
 }
 
-.navbar-default {
-    background-color: #F8F8F8;
-    border-color: #E7E7E7;
+.navbar-custom {
+    background-color:#229922;
+    color:#ffffff;
+    border-radius:0;
 }
