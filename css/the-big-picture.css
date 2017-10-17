@@ -14,14 +14,14 @@ body {
 
 .mt-5{
 	margin-left:100px;
+	font-weight:bold;
 }
 
 .navbar-custom {
     background-color:blue;
-    color:blue;
 }
 
 .navbar-custom .navbar-nav .nav-link {
-    color: rgba(255,255,255,.5);
+    color: red;
     font-weight:bold;
 }
