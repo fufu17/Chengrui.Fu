@@ -18,10 +18,10 @@ body {
 }
 
 .navbar-custom {
-    background-color:blue;
+    background-color:light blue;
 }
 
-.navbar-custom .navbar-nav .nav-link {
+.navbar-custom .navbar-nav .navbar-brand .nav-link {
     color: red;
     font-weight:bold;
 }
