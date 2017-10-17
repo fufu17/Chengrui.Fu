@@ -11,3 +11,12 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.mt-5{
+	margin-left:20px;
+}
+
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
