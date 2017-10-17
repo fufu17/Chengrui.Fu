@@ -17,11 +17,11 @@ body {
 }
 
 .navbar-custom {
-    background-color:blue
+    background-color:blue;
+    color:blue;
 }
 
-.navbar-custom .navbar-brand,
-.navbar-custom .navbar-text {
-    color: rgba(255,255,255,.8);
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
     font-weight:bold;
 }
