@@ -27,6 +27,6 @@ body {
     font-weight:bold;
 }
 
-.active .focus{
+.active:active{
 	color: yellow;
 }
