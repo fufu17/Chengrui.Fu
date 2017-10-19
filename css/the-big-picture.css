@@ -18,12 +18,12 @@ body {
 }
 
 .navbar-custom {
-    background-color:#ADD8E6;
-    color:#ADD8E6;
+    background-color:black;
+    color:black;
 }
 
 .navbar-custom .navbar-nav .navbar-brand .nav-link {
-    color: red;
+    color: white;
     font-weight:bold;
 }
 
