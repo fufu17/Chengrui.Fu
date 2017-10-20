@@ -22,7 +22,7 @@ body {
     color:black;
 }
 
-.navbar-custom .navbar-nav .navbar-brand .nav-link {
+.navbar-custom .navbar-brand {
     color: white;
     font-weight:bold;
 }
