@@ -75,3 +75,8 @@ h3{
   width: 650px;
 }
 
+.btn-large{
+  border: 1px solid #ededed;
+  background-color: #f1f1f1;
+}
+
